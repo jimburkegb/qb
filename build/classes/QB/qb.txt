@@ -1,0 +1,36 @@
+!  
+!  QBOARD params file
+!
+!
+MATCHDURATION   = 60            !  60-min game
+PLAYER1NAME     = Jim Burke    !  Player name must NOT be more than 22 chars - eg. "Playername is22chars"
+PLAYER1FLAG     = Scotland     !  Country can be upper or lower case, or a mix.
+PLAYER2NAME     = Carl Walter Steiner
+PLAYER2FLAG     = Austria
+REFEREENAME     = Brendan Devlin
+REFEREEFLAG     = Ireland
+TOURNAMENTNAME  = UK Open 2015
+MATCHNAME       = Group D 
+MATCHTYPE       = Timed (1 hr)
+GAMETYPE        = 1             !  1 = Billiards (timed), 2 = Billiards (points), 10 = Snooker, 20 = Pool, ...
+!
+NUMFRAMES       = 0             !  If a points-up match, then we need total frames to be played
+SERVERIP        = "88.208.210.166" 
+! SERVERIP        = "10.0.0.137" 
+! SERVERIP = ""             !  Use this to force params from this file - ie. no network. 
+LOCALIP         = "localhost" 
+SERVERUSERNAME  = "jim"         !  All l/case note
+SERVERPASSWORD  = "tennent6"    !  ...
+LOCALUSERNAME   = "jim"         !  ...
+LOCALPASSWORD   = "tennent6"    !  ...
+SESSION         = 12
+TABLE           = 9
+DEBUGLOG        = 1             !  Log messages to db.
+REMOTECONTROLTYPE = 1           !  1 = IR, 2 = Bluetooth, 3 = Wireless.
+BREAKSLIMIT     = 50            !  Show breaks above this limit
+ADVANCEDSCORING = 0             !  Advanced Scoring. 0=NO, 1 = Yes (Billiards),...
+LOGOSPONSOR1    = "litetask.jpg"
+LOGOSPONSOR2    = "RIBSA.jpg"
+!
+!---<  end of file >---
+!

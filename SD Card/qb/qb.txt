@@ -1,0 +1,26 @@
+!  
+!  QBOARD params file
+!
+!
+MATCHDURATION   = 60            !  60-min game
+PLAYER1NAME     = Jim Burke
+PLAYER1FLAG     = Scotland
+PLAYER2NAME     = Carl Walter Steiner
+PLAYER2FLAG     = Austria
+REFEREENAME     = Brendan Devlin
+REFEREEFLAG     = Ireland
+TOURNAMENTNAME  = UK Open 2015
+MATCHNAME       = Group D 
+GAMETYPE        = 1             !  1 = Billiards (timed), 2 = Billiards (points), 10 = Snooker, 20 = Pool, ...
+!
+NUMFRAMES       = 0             !  If a points-up match, then we need total frames to be played
+SERVERIP        = "10.0.0.137" 
+SERVERUSERNAME  = "jim" 
+SERVERPASSWORD  = "tennent6" 
+LOCALUSERNAME   = "jim"
+LOCALPASSWORD   = "tennent6" 
+SESSION         = 12
+TABLE           = 9
+!
+!---<  end of file >---
+!

@@ -1,0 +1,16 @@
+begin
+    button = KEY_1
+    prog = irexec
+    config = echo "YIPPEE !!!"
+end
+ 
+begin
+    button = KEY_2
+    prog = irexec
+    config = echo "YIPPEE !!!"
+end
+begin
+    button = KEY_3
+    prog = irexec
+    config = echo "YIPPEE !!!"
+end
