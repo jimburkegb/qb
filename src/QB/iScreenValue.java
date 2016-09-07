@@ -3,7 +3,6 @@
  */
 package QB;
 
-import javafx.application.Platform;
 import javafx.beans.property.SimpleIntegerProperty;
 import javafx.beans.value.ObservableValue;
  /*

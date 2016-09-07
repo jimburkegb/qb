@@ -10,7 +10,6 @@ import static QB.qboard.qd ;
 import static QB.qboard.IRctl  ;
 import static QB.qboard.BTctl  ;
 import QB.SaveScore ;
-import static QB.qboard.dbg;
 import java.awt.AWTException;
 import javafx.embed.swing.SwingFXUtils;
 //

@@ -3,11 +3,8 @@
  */
 package QB;
 
-import javafx.application.Platform;
-import javafx.beans.property.SimpleStringProperty;
 import javafx.beans.value.ObservableValue;
 import javafx.scene.image.Image;
-import javafx.beans.property.ObjectProperty;
 import javafx.beans.property.SimpleObjectProperty;
 
  /*
