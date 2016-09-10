@@ -1,0 +1,94 @@
+Big PANASONIC
+-------------
+
+Enabling fuzzy format match...
+Parsing edid.dat...
+HDMI:EDID version 1.3, 1 extensions, screen size 128x72 cm
+HDMI:EDID features - videodef 0x80 !standby !suspend !active off; colour encoding:RGB444|YCbCr422; sRGB is not default colourspace; preferred format is native; does not support GTF
+HDMI:EDID found monitor name descriptor tag 0xfc
+HDMI:EDID monitor name is Panasonic-TV
+HDMI:EDID found monitor range descriptor tag 0xfd
+HDMI:EDID monitor range offsets: V min=0, V max=0, H min=0, H max=0
+HDMI:EDID monitor range: vertical is 23-61 Hz, horizontal is 15-136 kHz, max pixel clock is 600 MHz
+HDMI:EDID monitor range does not support GTF
+HDMI:EDID failed to find a matching detail format for 3840x2160p hfp:176 hs:88 hbp:296 vfp:8 vs:10 vbp:72 pixel clock:594 MHz
+HDMI:EDID calculated refresh rate is 60 Hz
+HDMI:EDID guessing the format to be 3840x2160p @60 Hz
+HDMI:EDID found unknown detail timing format: 3840x2160p hfp:176 hs:88 hbp:296 vfp:8 vs:10 vbp:72 pixel clock:594 MHz
+HDMI:EDID found preferred CEA detail timing format: 1920x1080p @ 60 Hz (16)
+HDMI:EDID established timing I/II bytes are 20 08 00
+HDMI:EDID found DMT format: code 4, 640x480p @ 60 Hz in established timing I/II
+HDMI:EDID found DMT format: code 16, 1024x768p @ 60 Hz in established timing I/II
+HDMI:EDID standard timings block x 8: 0x3140 6140 0101 0101 0101 0101 0101 0101 
+HDMI:EDID found DMT format: code 4, 640x480p @ 60 Hz (4:3) in standard timing 0
+HDMI:EDID found DMT format: code 16, 1024x768p @ 60 Hz (4:3) in standard timing 1
+HDMI:EDID parsing v3 CEA extension 0
+HDMI:EDID monitor support - underscan IT formats:yes, basic audio:yes, yuv444:yes, yuv422:yes, #native DTD:0
+HDMI:EDID failed to find a matching detail format for 2560x1440p hfp:48 hs:32 hbp:80 vfp:3 vs:5 vbp:33 pixel clock:241 MHz
+HDMI:EDID calculated refresh rate is 60 Hz
+HDMI:EDID guessing the format to be 2560x1440p @60 Hz
+HDMI:EDID found unknown detail timing format: 2560x1440p hfp:48 hs:32 hbp:80 vfp:3 vs:5 vbp:33 pixel clock:241 MHz
+HDMI:EDID found DMT detail timing format: 1366x768p @ 60 Hz (81)
+HDMI:EDID found CEA format: code 16, 1920x1080p @ 60Hz 
+HDMI:EDID found CEA format: code 31, 1920x1080p @ 50Hz 
+HDMI:EDID found CEA format: code 5, 1920x1080i @ 60Hz 
+HDMI:EDID found CEA format: code 20, 1920x1080i @ 50Hz 
+HDMI:EDID found CEA format: code 32, 1920x1080p @ 24Hz 
+HDMI:EDID found CEA format: code 33, 1920x1080p @ 25Hz 
+HDMI:EDID found CEA format: code 34, 1920x1080p @ 30Hz 
+HDMI:EDID found CEA format: code 4, 1280x720p @ 60Hz 
+HDMI:EDID found CEA format: code 19, 1280x720p @ 50Hz 
+HDMI:EDID found CEA format: code 3, 720x480p @ 60Hz 
+HDMI:EDID found CEA format: code 18, 720x576p @ 50Hz 
+HDMI:EDID found CEA format: code 7, 1440x480i @ 60Hz 
+HDMI:EDID found CEA format: code 22, 1440x576i @ 50Hz 
+HDMI:EDID does not understand CEA format code 93
+HDMI:EDID does not understand CEA format code 94
+HDMI:EDID does not understand CEA format code 95
+HDMI:EDID does not understand CEA format code 98
+HDMI:EDID does not understand CEA format code 99
+HDMI:EDID does not understand CEA format code 100
+HDMI:EDID does not understand CEA format code 97
+HDMI:EDID does not understand CEA format code 96
+HDMI:EDID does not understand CEA format code 102
+HDMI:EDID does not understand CEA format code 101
+HDMI:EDID found audio format 2 channels PCM, sample rate: 32|44|48 kHz, sample size: 16 bits
+HDMI:EDID found HDMI VSDB length 14
+HDMI:EDID HDMI VSDB has physical address 3.0.0.0
+HDMI:EDID HDMI VSDB supports AI:no, dual link DVI:no
+HDMI:EDID HDMI VSDB deep colour support - 48-bit:no 36-bit:yes 30-bit:yes DC_yuv444:yes
+HDMI:EDID HDMI VSDB max TMDS clock 300 MHz
+HDMI:EDID HDMI VSDB content type support: game|cinema|photo|text
+HDMI:EDID HDMI VSDB supports extended resolutions 1,2,3,4
+HDMI:EDID ignoring non HDMI VSDB with IEEE reg 0xc45dd8
+HDMI:EDID found Video Capability DB length 2
+HDMI:EDID video capability: CE:3 IT:2 PT:0 QS:1
+HDMI:EDID extended data block tag 0x05 length 3 not supported
+HDMI:EDID extended data block tag 0x0f length 4 not supported
+HDMI:EDID adding mandatory support for CEA (1) 640x480p @ 60Hz
+HDMI:EDID adding mandatory support for CEA (2) 720x480p @ 60Hz
+HDMI:EDID adding mandatory support for CEA (17) 720x576p @ 50Hz
+HDMI:EDID filtering formats with pixel clock > 162 MHz or h. blanking > 1023
+HDMI:EDID best score mode initialised to CEA (1) 640x480p @ 60 Hz with pixel clock 25 MHz (score 0)
+HDMI:EDID best score mode is now CEA (1) 640x480p @ 60 Hz with pixel clock 25 MHz (score 61864)
+HDMI:EDID best score mode is now CEA (2) 720x480p @ 60 Hz with pixel clock 27 MHz (score 66472)
+HDMI:EDID CEA mode (3) 720x480p @ 60 Hz with pixel clock 27 MHz has a score of 66472
+HDMI:EDID best score mode is now CEA (4) 1280x720p @ 60 Hz with pixel clock 74 MHz (score 135592)
+HDMI:EDID DMT mode (4) 640x480p @ 60 Hz with pixel clock 25 MHz has a score of 43432
+HDMI:EDID best score mode is now CEA (5) 1920x1080i @ 60 Hz with pixel clock 74 MHz (score 149416)
+HDMI:EDID CEA mode (7) 1440x480i @ 60 Hz with pixel clock 27 MHz has a score of 45736
+HDMI:EDID best score mode is now CEA (16) 1920x1080p @ 60 Hz with pixel clock 148 MHz (score 5398248)
+HDMI:EDID DMT mode (16) 1024x768p @ 60 Hz with pixel clock 65 MHz has a score of 72185
+HDMI:EDID CEA mode (17) 720x576p @ 50 Hz with pixel clock 27 MHz has a score of 66472
+HDMI:EDID CEA mode (18) 720x576p @ 50 Hz with pixel clock 27 MHz has a score of 66472
+HDMI:EDID CEA mode (19) 1280x720p @ 50 Hz with pixel clock 74 MHz has a score of 117160
+HDMI:EDID CEA mode (20) 1920x1080i @ 50 Hz with pixel clock 74 MHz has a score of 128680
+HDMI:EDID CEA mode (22) 1440x576i @ 50 Hz with pixel clock 27 MHz has a score of 45736
+HDMI:EDID CEA mode (31) 1920x1080p @ 50 Hz with pixel clock 148 MHz has a score of 232360
+HDMI:EDID CEA mode (32) 1920x1080p @ 24 Hz with pixel clock 74 MHz has a score of 124532
+HDMI:EDID CEA mode (33) 1920x1080p @ 25 Hz with pixel clock 74 MHz has a score of 128680
+HDMI:EDID CEA mode (34) 1920x1080p @ 30 Hz with pixel clock 74 MHz has a score of 149416
+HDMI:EDID DMT mode (81) 1366x768p @ 60 Hz with pixel clock 85 MHz has a score of 4562945
+HDMI:EDID preferred mode remained as CEA (16) 1920x1080p @ 60 Hz with pixel clock 148 MHz
+HDMI:EDID has HDMI support and audio support
+edid_parser exited with code 0

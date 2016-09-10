@@ -1,0 +1,45 @@
+
+HANN monitor
+------------
+
+Enabling fuzzy format match...
+Parsing edid.dat...
+HDMI:EDID version 1.3, 0 extensions, screen size 38x30 cm
+HDMI:EDID features - videodef 0x80 !standby !suspend active off; colour encoding:RGB444|YCbCr422; sRGB is not default colourspace; preferred format is native; does not support GTF
+HDMI:EDID found monitor range descriptor tag 0xfd
+HDMI:EDID monitor range offsets: V min=0, V max=0, H min=0, H max=0
+HDMI:EDID monitor range: vertical is 56-75 Hz, horizontal is 30-80 kHz, max pixel clock is 140 MHz
+HDMI:EDID monitor range does not support GTF
+HDMI:EDID found monitor name descriptor tag 0xfc
+HDMI:EDID monitor name is HU196D
+HDMI:EDID found monitor S/N descriptor tag 0xff
+HDMI:EDID found preferred DMT detail timing format: 1280x1024p @ 60 Hz (35)
+HDMI:EDID established timing I/II bytes are AD CF 00
+HDMI:EDID found DMT format: code 4, 640x480p @ 60 Hz in established timing I/II
+HDMI:EDID found DMT format: code 5, 640x480p @ 72 Hz in established timing I/II
+HDMI:EDID found DMT format: code 6, 640x480p @ 75 Hz in established timing I/II
+HDMI:EDID found DMT format: code 9, 800x600p @ 60 Hz in established timing I/II
+HDMI:EDID found DMT format: code 10, 800x600p @ 72 Hz in established timing I/II
+HDMI:EDID found DMT format: code 11, 800x600p @ 75 Hz in established timing I/II
+HDMI:EDID found DMT format: code 16, 1024x768p @ 60 Hz in established timing I/II
+HDMI:EDID found DMT format: code 17, 1024x768p @ 70 Hz in established timing I/II
+HDMI:EDID found DMT format: code 18, 1024x768p @ 75 Hz in established timing I/II
+HDMI:EDID found DMT format: code 36, 1280x1024p @ 75 Hz in established timing I/II
+HDMI:EDID standard timings block x 8: 0x8180 0101 0101 0101 0101 0101 0101 0101 
+HDMI:EDID found DMT format: code 35, 1280x1024p @ 60 Hz (5:4) in standard timing 0
+HDMI:EDID filtering formats with pixel clock > 162 MHz or h. blanking > 1023
+HDMI:EDID best score mode initialised to DMT (4) 640x480p @ 60 Hz with pixel clock 25 MHz (score 0)
+HDMI:EDID best score mode is now DMT (4) 640x480p @ 60 Hz with pixel clock 25 MHz (score 36864)
+HDMI:EDID best score mode is now DMT (5) 640x480p @ 72 Hz with pixel clock 31 MHz (score 44236)
+HDMI:EDID best score mode is now DMT (6) 640x480p @ 75 Hz with pixel clock 31 MHz (score 46080)
+HDMI:EDID best score mode is now DMT (9) 800x600p @ 60 Hz with pixel clock 40 MHz (score 57600)
+HDMI:EDID best score mode is now DMT (10) 800x600p @ 72 Hz with pixel clock 50 MHz (score 69120)
+HDMI:EDID best score mode is now DMT (11) 800x600p @ 75 Hz with pixel clock 49 MHz (score 72000)
+HDMI:EDID best score mode is now DMT (16) 1024x768p @ 60 Hz with pixel clock 65 MHz (score 94370)
+HDMI:EDID best score mode is now DMT (17) 1024x768p @ 70 Hz with pixel clock 75 MHz (score 110100)
+HDMI:EDID best score mode is now DMT (18) 1024x768p @ 75 Hz with pixel clock 78 MHz (score 117964)
+HDMI:EDID best score mode is now DMT (35) 1280x1024p @ 60 Hz with pixel clock 108 MHz (score 5260929)
+HDMI:EDID DMT mode (36) 1280x1024p @ 75 Hz with pixel clock 135 MHz has a score of 196608
+HDMI:EDID preferred mode remained as DMT (35) 1280x1024p @ 60 Hz with pixel clock 108 MHz
+HDMI:EDID has only DVI support and no audio support
+edid_parser exited with code 0
