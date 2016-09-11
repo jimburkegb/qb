@@ -66,6 +66,8 @@ public class Qscreen extends Task<Integer>
         //           Load up the screen fonts
         Font myFontCircularStd = Font.loadFont(getClass().getResourceAsStream("/fonts/CircularStd-Bold.otf"), 20);
         Font myFontMyriadPro   = Font.loadFont(getClass().getResourceAsStream("/fonts/MyriadPro-Regular.otf"), 20);
+        Font myLEDFont         = Font.loadFont(getClass().getResourceAsStream("/fonts/digital-7 (mono italic).ttf"), 20);
+        Font myLEDItalicFont   = Font.loadFont(getClass().getResourceAsStream("/fonts/digital-7 (mono).ttf"), 20);
         //
         //  Set up and initialise TIME NOW display.
         SetupClock() ;

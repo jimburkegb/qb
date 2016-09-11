@@ -48,7 +48,7 @@ import javafx.stage.Stage;
 public class Qdata
 {
 // ************************************************
-    public final static String QB_VERSION = "V1.29" ; 
+    public final static String QB_VERSION = "V1.30" ; 
 // ************************************************
     public  static Scene qscene ; 
 
